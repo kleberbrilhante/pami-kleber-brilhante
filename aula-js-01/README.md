@@ -131,12 +131,6 @@ console.log(`${palavra01}um ${palavra03}`);
 Essas diferentes abordagens mostram como a concatenação pode ser realizada de maneiras distintas, cada uma com suas vantagens e desvantagens.
 
 
-
-## 🚀 Próximos Passos
-
-Agora que você tem o Node.js instalado e sabe sobre variáveis, está pronto para começar a explorar mais sobre JavaScript! 😊
-
 ### Recursos Adicionais
 
 - **Documentação Oficial do Node.js**: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
-
